@@ -25,3 +25,12 @@ const result4 of num1=num1.map((item=>{
     }
 }))
 console.log(result4 of num);
+
+
+console.log(result4 of num1);
+
+const result5 of num2=num2.map((item=>{
+    return(item+8>58)? item/4:item
+}))
+console.log(result5 of num2);
+
